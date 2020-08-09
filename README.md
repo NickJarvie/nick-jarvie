@@ -1,5 +1,3 @@
-![header](./Images/Blue-01.png)
-
 ### Hi there 👋
 
 I am designer and web developer interested in making design accessible through simple contemporary technology.
