@@ -2,7 +2,7 @@
 
 I am a designer and web developer interested in making design accessible through simple contemporary technology.
 
-While my primary interest is in design, I am growing my skill in web development to bring these two areas together to make my design capability more available. I enjoy working with other motivated and imaginative people to achieve common objectives using industry standard toolsets.
+While my initial interest is in design, I am growing my skill in web development to bring these two areas together to make my design capability more available. I enjoy working with other motivated and imaginative people to achieve common objectives using industry standard toolsets.
 
 Currently studying full stack web development at Enspiral Dev Academy
 in Wellington. This has included JavaScript, React, Redux, HTML, CSS, git, databases and auth.
